@@ -16,8 +16,9 @@ Installation
 Clone the repository:
 ```bash
 git clone https://github.com/ch-abhiram/Hashira-Placements-Assignment.git
-Ensure Node.js is installed (verify with node -v).
 ```
+Ensure Node.js is installed (verify with node -v).
+
 Usage
 Prepare input.json with the combined test cases.
 
